@@ -1,16 +1,22 @@
-Population Data Analysis using Python
+<img width="742" alt="ds1" src="https://github.com/user-attachments/assets/6f7c4dda-cf4f-469e-a2e9-da3f4117880c" />
 
-This project performs data cleaning, analysis, and visualization on World Bank population data. It focuses on understanding the population distribution across countries/regions for the year 2022.
 
-Dataset: World Bank - Population, total (API_SP.POP.TOTL)
 
-Format: CSV
+Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. This project performs data cleaning, analysis, and visualization on World Bank population data. It focuses on understanding the population distribution across countries/regions for the year 2022.
 
-Time Range: 1960 to 2022
+Dataset:
+World Population (API_SP.POP.TOTL)
+
+Format:
+CSV
+
+Time Range:
+1960 to 2022
 
 Columns include country name, country code, and yearly population data.
 
-Tools & Libraries Used: Python, Pandas, NumPy, Matplotlib, Seaborn (optional)
+Tools & Libraries Used: 
+Python, Pandas, NumPy, Matplotlib, Seaborn (optional)
 
 Features Implemented:
 
