@@ -4,7 +4,7 @@
 
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. This project performs data cleaning, analysis, and visualization on World Bank population data. It focuses on understanding the population distribution across countries/regions for the year 2022.
 
-Dataset:
+# Dataset:
 World Population (API_SP.POP.TOTL)
 
 Format:
@@ -18,7 +18,7 @@ Columns include country name, country code, and yearly population data.
 Tools & Libraries Used: 
 Python, Pandas, NumPy, Matplotlib, Seaborn (optional)
 
-Features Implemented:
+# Features Implemented:
 
 Data import and preprocessing-
 > Removed metadata/header noise
