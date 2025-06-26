@@ -20,11 +20,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn (optional)
 
 # Features Implemented:
 
-Data import and preprocessing-
+- Data import and preprocessing:
 > Removed metadata/header noise
 > Dropped missing/null/zero population values
 
-Visualizations-
-
+- Visualizations:
 > Bar chart: Top 20 most populous countries in 2022
 > Histogram: Population distribution across all countries
